@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.sec1 {
+    width: auto;
+    height: 100px;
+    flex-grow: 1;
+}
+
+.sec2 {
+    background-color: blue;
+}
+
+.two {
+    background-color: rgb(34, 128, 88);
+}
+
+.three {
+    background-color: rgb(255, 174, 0);
+}
